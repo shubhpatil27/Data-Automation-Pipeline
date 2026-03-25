@@ -1,0 +1,8 @@
+student_id,course_id,attendance_percent
+101,CSE101,95
+102,CSE102,85
+103,CSE101,110
+104,CSE103,88
+105,CSE102,-5
+106,CSE101,75
+108,CSE105,90

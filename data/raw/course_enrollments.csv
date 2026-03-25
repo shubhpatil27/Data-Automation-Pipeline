@@ -1,0 +1,8 @@
+student_id,course_id,course_name,department,credits,semester,grade
+101,cse101,Intro to Programming,CS,3,fall 2023,A
+102,CSE102,Data Structures,CS,4,Spring 2024,B
+103,cse101,Intro to Programming,Computer Science,3,fall 2023,A
+104,CSE103,Database Systems,CS,3,Spring 2024,A
+105,CSE102,Data Structures,CS,4,fall 2023,C
+107,CSE104,Algorithms,CS,3,fall 2023,B
+101,CSE101,Intro to Programming,CS,3,fall 2023,A
