@@ -1,6 +1,6 @@
 # 📊 Data Cleaning & Validation Automation System
 
-## 🚀 Overview
+##  Overview
 
 This project is a **Python-based data automation pipeline** designed to transform messy, multi-source datasets into **clean, structured, and analysis-ready data**—all in a single run.
 
