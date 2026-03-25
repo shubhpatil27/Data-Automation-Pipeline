@@ -2,7 +2,7 @@
 
 ##  Overview
 
-This project is a **Python-based data automation pipeline** designed to transform messy, multi-source datasets into **clean, structured, and analysis-ready data**—all in a single run.
+This project is a **Python-based data automation pipeline** designed to transform messy, multi-source datasets into **clean, structured, and analysi ready data** all in a single run.
 
 Instead of manually cleaning data in Excel, this system:
 
